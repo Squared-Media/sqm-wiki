@@ -23,3 +23,5 @@ gem "jekyll-sitemap"
 gem "jekyll-titles-from-headings"
 gem "jemoji"
 gem "jekyll-gitlab-metadata"
+
+gem "kramdown-parser-gfm"
