@@ -1,5 +1,6 @@
 remote_theme: Drassil/git-wiki-theme@master
-github.repository_url: https://github.com/Squared-Media/sqm-wiki
+github:
+  repository_url: https://github.com/Squared-Media/sqm-wiki
 # (string) Title of your wiki
 title: "Squared Media Wiki"
 # (string) if you've installed your wiki in subfolder, you must change this configuration
