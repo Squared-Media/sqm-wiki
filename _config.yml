@@ -1,4 +1,4 @@
-remote_theme: Drassil/git-wiki-theme@master
+remote_theme: Squared-Media/git-wiki-theme@master
 github:
   repository_url: "https://github.com/Squared-Media/sqm-wiki"
 # (string) Title of your wiki
