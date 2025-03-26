@@ -1,5 +1,5 @@
 
-source "htps://rubygems.org"
+source "https://rubygems.org"
 
 # gem "rails"
 gem "jekyll"
